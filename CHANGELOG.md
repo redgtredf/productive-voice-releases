@@ -2,7 +2,7 @@
 
 All notable changes to Productive Voice. Newest first. Dates are the day the work was finished.
 
-## 0.5.1 (in preparation, 2026-11-11)
+## 0.5.1 (2026-11-11)
 
 ### Fixed: long recordings
 - AssemblyAI recordings failed on upload because of a header Electron rejects. The header is removed.
